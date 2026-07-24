@@ -152,8 +152,12 @@ This project demonstrates an end-to-end data analytics workflow, showcasing the 
 ## 📬 Contact
 
 **Rahul Singh P**
-- LinkedIn: www.linkedin.com/in/rahul-singh-p-0a04522b3
-- GitHub: https://github.com/RahulSingh5995/superstore-sales-analysis-sql
+
+
+
+
+
+
 
 
 
